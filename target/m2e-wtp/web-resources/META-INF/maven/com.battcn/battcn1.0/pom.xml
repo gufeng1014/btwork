@@ -286,7 +286,7 @@
 	</dependencies>
 
 	<build>
-		<finalName>battcn</finalName>
+		<finalName>btwork</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.mortbay.jetty</groupId>
